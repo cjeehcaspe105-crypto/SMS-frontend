@@ -5,7 +5,7 @@
             Students, SMS Notifications, Settings
    ========================================================== */
 
-const API = 'http://localhost:5000/api';
+const API = 'https://sms-backend-ja4y.onrender.com/api/students';
 
 /* ─────────────────────────────────────────────────────────
    UTILITY: Toast Notifications
